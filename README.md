@@ -1,4 +1,4 @@
-# Business Architecture Examples
+# Business Architecture Planning in Practice
 
 ## Description
 This repository contains structured examples of various business architecture models, focusing on **Business Capability Mapping**, **Service Domains**, and **Domain-Driven Design (DDD)**. The goal is to provide clear and practical documentation that aligns business needs with IT strategy.
